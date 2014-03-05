@@ -1,3 +1,8 @@
 {
-  "name" : "grunt_bower_test"
+  "name" : "grunt_bower_test",
+  "version": "0.0.0",
+  "dependencies": {
+    "bootstrap": "~3.0.2",
+    "jquery": "~2.0.3"
+  }
 }
